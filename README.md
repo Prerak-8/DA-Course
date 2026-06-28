@@ -1,6 +1,6 @@
 # 🤖 AI & Machine Learning (DA) Course
 
-Welcome to my **Diploma in Artificial Intelligence & Machine Learning (DA)** course repository.
+Welcome to my **Artificial Intelligence & Machine Learning (DA)** course repository.
 
 This repository contains all the work completed during my course, including self-exercises, lab work, and projects. It is regularly updated as I progress through the course.
 
