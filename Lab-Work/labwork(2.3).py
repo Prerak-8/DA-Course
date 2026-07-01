@@ -43,7 +43,7 @@ for num in range(10, 0, -1):
 
 for num in range(1, 51):
     if num % 2 == 0 and num % 3 == 0:
-            print("Divisible by both:", num)
+        print("Divisible by both:", num)
     elif num % 2 == 0:
         print("Divisible by 2:", num)
     elif num % 3 == 0:
