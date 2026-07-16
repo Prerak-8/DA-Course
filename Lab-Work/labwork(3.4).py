@@ -77,9 +77,3 @@ for student in students:
 print("Grade A:", gradeA)
 print("Grade B:", gradeB)
 print("Grade C:", gradeC)
-
-# dont understand panda frame what?
-
-# csv not explained maybe
-
-# re import?
